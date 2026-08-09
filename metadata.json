@@ -1,0 +1,6 @@
+{
+  "name": "PayRecharge India",
+  "description": "Secure Mobile Recharge, Utility Bill Payment, Instant Commission, Encrypted Vault, Multi-level Auth & Live Chat Support App for India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
